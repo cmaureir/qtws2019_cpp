@@ -1,0 +1,3 @@
+target = simple
+sources = sipsimplecmodule.cpp
+headers = sipAPIsimple.h

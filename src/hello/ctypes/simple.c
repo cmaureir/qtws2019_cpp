@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 char* hello() {
-   char *msg = "Hello Euro Python 2019!";
+   char *msg = "Hello Qt World Summit 2019!";
    return msg;
 }

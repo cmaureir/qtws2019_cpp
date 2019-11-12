@@ -1,5 +1,5 @@
 # Qt World Summit 2019 Berlin
-## How to bring your C++ projec to Python land
+## How to bring your C++ project to Python land
 
 There has been always efforts to provide Python bindings for many popular C++
 libraries and frameworks.
